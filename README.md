@@ -2,4 +2,4 @@
 
 ## Module 1 : Data Science Fundamentals
 
-- ./data-science-portfolio/Data Science Fundamentals.pdf
+-Report: [View PDF](/data-science-portfolio/Data Science Fundamentals.pdf)
