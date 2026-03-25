@@ -2,4 +2,4 @@
 
 ## Module 1 : Data Science Fundamentals
 
-- Report: [Download PDF](Data Science Fundamentals.pdf)
+- Report: [Download PDF](Module 1 : Data Science Fundamentals/Data Science Fundamentals.pdf)
