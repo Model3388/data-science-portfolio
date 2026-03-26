@@ -23,7 +23,7 @@ These projects were developed through structured coursework and practical assign
 
 Explores how misleading conclusions can arise from aggregated data and demonstrates the importance of identifying hidden variables in decision-making.
 
-* 📓 Notebook: [View](./data-science-fundamentals/notebook.ipynb)
+* 📓 Notebook: [View](./data-science-fundamentals/README.md)
 * 📄 Write-up: [Read](./data-science-fundamentals/assignment-details.md)
 
 ---
