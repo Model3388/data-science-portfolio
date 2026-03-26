@@ -1,1 +1,1 @@
-Description coming soon
+### Explaining Potential Errors in Simplified Representations of Data
