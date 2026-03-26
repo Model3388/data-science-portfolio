@@ -51,13 +51,7 @@ Proposed pricing model:
 
 This approach aims to better align pricing with demand and encourage balanced loan distribution.
 
-## 🛠️ Tools Used
-
-* Python
-* Jupyter Notebook
-
 ## 📎 Files
 
-* 📓 Notebook: `notebook.ipynb`
 * 📄 Full Write-Up: `assignment-details.md`
 
