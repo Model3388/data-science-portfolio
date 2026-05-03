@@ -33,7 +33,8 @@ Explores how misleading conclusions can arise from aggregated data and demonstra
 
 Applies probabilistic modeling and risk pooling concepts to determine the inventory required to meet customer demand under uncertainty.
  
-- 📄 Write-up: [Read](./inventory-risk-management/assignment-details.md)  
+* 📓 ReadMe: [View](./inventory-risk-management/README.md)
+* 📄 Write-up: [Read](./inventory-risk-management/assignment-details.md)  
 
 ---
 
