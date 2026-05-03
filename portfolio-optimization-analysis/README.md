@@ -67,4 +67,4 @@ Based on the analysis, Amazon appears to offer the strongest return profile.
 
 ## 📎 Files
 
-* 📄 Full Write-Up: [read](portfolio-optimization-analysis/assignment-details.md)
+* 📄 Full Write-Up: [read](./portfolio-optimization-analysis/assignment-details.md)
