@@ -38,6 +38,15 @@ Applies probabilistic modeling and risk pooling concepts to determine the invent
 
 ---
 
+### 📈 Portfolio Optimization Using Empirical Stock Data
+
+Analyzes historical stock performance to evaluate risk and return, and applies data-driven reasoning to construct an investment strategy.
+
+* 📓 ReadMe: [View](./portfolio-optimization-analysis/README.md)  
+* 📄 Write-up: [Read](./portfolio-optimization-analysis/assignment-details.md)  
+
+---
+
 *(Add more projects below as you build them)*
 
 ---
