@@ -23,8 +23,17 @@ These projects were developed through structured coursework and practical assign
 
 Explores how misleading conclusions can arise from aggregated data and demonstrates the importance of identifying hidden variables in decision-making.
 
-* 📓 Notebook: [View](./data-science-fundamentals/README.md)
+* 📓 ReadMe: [View](./data-science-fundamentals/README.md)
 * 📄 Write-up: [Read](./data-science-fundamentals/assignment-details.md)
+
+---
+
+
+### 📦 Inventory Risk Management Using Statistical Modeling
+
+Applies probabilistic modeling and risk pooling concepts to determine the inventory required to meet customer demand under uncertainty.
+ 
+- 📄 Write-up: [Read](./inventory-risk-management/assignment-details.md)  
 
 ---
 
