@@ -65,6 +65,15 @@ Explores how clustering techniques can segment customers and generate insights f
 
 ---
 
+### 📊 Framing Predictive Modeling Questions for Business Impact
+
+Demonstrates how to translate business problems into structured predictive questions suitable for data science and machine learning models.
+
+* 📓 Notebook: [View](./predictive-modeling-business-questions/README.md)
+* 📄 Write-up: [Read](./predictive-modeling-business-questions/assignment-details.md)  
+
+---
+
 *(Add more projects below as you build them)*
 
 ---
