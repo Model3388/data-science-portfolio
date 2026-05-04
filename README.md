@@ -47,6 +47,15 @@ Analyzes historical stock performance to evaluate risk and return, and applies d
 
 ---
 
+### 📈 Demand Forecasting Using Time Series Modeling
+
+Analyzes historical demand data to identify trends and generate forecasts using time series techniques.
+
+* 📓 Notebook: [View](./demand-forecasting-time-series/notebook.ipynb)  
+* 📄 Write-up: [Read](./demand-forecasting-time-series/assignment-details.md)  
+
+---
+
 *(Add more projects below as you build them)*
 
 ---
