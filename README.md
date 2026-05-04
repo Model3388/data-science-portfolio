@@ -56,6 +56,15 @@ Analyzes historical demand data to identify trends and generate forecasts using 
 
 ---
 
+### 📊 Customer Segmentation Using Clustering Algorithms
+
+Explores how clustering techniques can segment customers and generate insights for targeted marketing and product strategy.
+
+* 📓 Notebook: [View](./customer-segmentation-clustering/README.md)
+* 📄 Write-up: [Read](./customer-segmentation-clustering/assignment-details.md)  
+
+---
+
 *(Add more projects below as you build them)*
 
 ---
