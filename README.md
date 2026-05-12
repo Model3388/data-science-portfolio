@@ -83,6 +83,15 @@ Explains how regression models can predict housing prices and translates statist
 
 ---
 
+### 📊 Regression Diagnostics: Outlier Detection and Model Reliability
+
+Evaluates regression model reliability by identifying outliers and assessing their impact on statistical validity.
+
+* 📓 ReadMe: [View](.regression-diagnostics-outlier-analysis/README.md)
+* 📄 Write-up: [Read](./regression-diagnostics-outlier-analysis/assignment-details.md)  
+
+---
+
 *(Add more projects below as you build them)*
 
 ---
