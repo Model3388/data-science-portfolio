@@ -78,7 +78,8 @@ Demonstrates how to translate business problems into structured predictive quest
 
 Explains how regression models can predict housing prices and translates statistical outputs into clear business insights.
 
-- 📄 Write-up: [Read](./housing-price-regression-analysis/assignment-details.md)  
+* 📓 ReadMe: [View](./housing-price-regression-analysis/README.md)
+* 📄 Write-up: [Read](./housing-price-regression-analysis/assignment-details.md)  
 
 ---
 
