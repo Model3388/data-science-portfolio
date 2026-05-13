@@ -92,6 +92,15 @@ Evaluates regression model reliability by identifying outliers and assessing the
 
 ---
 
+### 📞 Call Center Wait Time Analysis Using Probability
+
+Applies normal distribution concepts to analyze customer wait times and guide operational improvements in a call center environment.
+
+* 📓 ReadMe: [View](./call-center-wait-time-probability-analysis/README.md)
+* 📄 Write-up: [Read](./call-center-wait-time-probability-analysis/assignment-details.md)  
+
+---
+
 *(Add more projects below as you build them)*
 
 ---
